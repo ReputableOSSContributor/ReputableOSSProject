@@ -1,5 +1,5 @@
 # ReputableOSSProject
 
-Licensed under GPL2
+Licensed by GPL2
  
  
