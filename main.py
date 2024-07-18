@@ -1,3 +1,4 @@
+import evilpackage
 import sys
 
 def main():
